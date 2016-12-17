@@ -10,8 +10,8 @@ If your victim does not discover the device you can run several preprogrammed at
 
 
 ##Prerequisites
-Of course you will need an Arduino/Genuino Micro/Leonardo or at least a compatible board (Please support Arduino/Genuino by at least buying one board, if you do not own one yet) and the Arduino IDE.
-Additional you will need a 433mhz receiver module and a breadboard, some jumper wires or rather some soldering skills.
+Of course you will need an Arduino/Genuino Micro/Leonardo or at least a compatible board (Please support Arduino/Genuino by at least buying one board, if you do not own one yet) and the Arduino IDE. You'll need to download the The RCSwitch Libary available under https://github.com/sui77/rc-switch and put it into the libaries folder within the Aduino folder.
+Additional you will need a 433mhz receiver module and a breadboard, some jumper wires or some soldering skills.
 To remote controll the Arduino you will need a standard radio remote controll for sockets (or maybe another arduino attached with a 433mhz sender module).
 
 ##Instructions
