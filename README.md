@@ -32,4 +32,4 @@ Duckyscript https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
 RCSwitch for Arduino https://github.com/sui77/rc-switch
 
 ###Important Note
-I am not responsible for any illegal action. If you use this for any illegal purpose you will go to jail!
+I am not responsible for any illegal action. If you use this for any illegal purpose you will possibly go to jail!
